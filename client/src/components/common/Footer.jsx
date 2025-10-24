@@ -46,7 +46,7 @@ const Footer = () => {
     <footer
       className="bg-gray-950 text-white relative"
       style={{
-        backgroundImage: `url("/images/948996.jpg")`,
+        backgroundImage: `url("/images/948996.webp")`,
         backgroundSize: "cover",
         backgroundPosition: "center",
         backgroundRepeat: "no-repeat",

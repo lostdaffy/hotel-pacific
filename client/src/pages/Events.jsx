@@ -5,14 +5,14 @@ import CallToAction from "../components/common/CallToAaction";
 const EVENTS = [
   {
     id: 1,
-    image: "/images/weddings.jpg",
+    image: "/images/weddings.webp",
     title: "Luxury Weddings",
     date: "By Appointment",
     description: "Elegant weddings with bespoke décor and gourmet experiences.",
   },
   {
     id: 2,
-    image: "/images/Birthday-Parties.jpg",
+    image: "/images/Birthday-Parties.webp",
     title: "Premium Birthday Parties",
     date: "Anytime",
     description:
@@ -20,21 +20,21 @@ const EVENTS = [
   },
   {
     id: 3,
-    image: "/images/Corporate-Events.jpg",
+    image: "/images/Corporate-Events.webp",
     title: "Elite Corporate Events",
     date: "Anytime",
     description: "Sophisticated setups for impactful corporate gatherings.",
   },
   {
     id: 4,
-    image: "/images/Anniversary-Parties.jpg",
+    image: "/images/Anniversary-Parties.webp",
     title: "Anniversary Parties",
     date: "By Appointment",
     description: "Romantic anniversaries in refined and intimate settings.",
   },
   {
     id: 5,
-    image: "/images/Engagement-Galas.jpg",
+    image: "/images/Engagement-Galas.webp",
     title: "Engagement Galas",
     date: "By Appointment",
     description: "Cherish new beginnings with lavish engagement parties.",

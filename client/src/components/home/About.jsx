@@ -10,8 +10,8 @@ const About = () => {
           <div className="relative group">
             <div className="relative">
               <img
-                src="/images/8911.jpg"
-                alt="Luxury Wedding Hall"
+                src="/images/8911.webp"
+                alt="Luxury wedding banquet hall at Hotel Pacific"
                 className="rounded-2xl sm:rounded-3xl shadow-xl w-full object-cover transform group-hover:scale-[1.02] transition duration-500"
               />
             </div>

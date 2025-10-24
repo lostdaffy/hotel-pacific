@@ -5,7 +5,7 @@ const HeroHeading = ({ heading, subHeading, line }) => {
     <section
       className="relative min-h-[50vh] md:min-h-[60vh] flex items-center justify-center px-4 sm:px-6"
       style={{
-        backgroundImage: `url("/images/129666.jpg")`,
+        backgroundImage: `url("/images/129666.webp")`,
         backgroundSize: "cover",
         backgroundPosition: "center",
       }}

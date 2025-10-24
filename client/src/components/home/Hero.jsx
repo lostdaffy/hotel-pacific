@@ -5,7 +5,7 @@ const Hero = () => {
     <section
       className="relative min-h-screen flex items-center justify-center pt-[100px] md:pt-0"
       style={{
-        backgroundImage: `linear-gradient(to bottom, rgba(255,255,255,0.2), rgba(255,255,255,0.1)), url("/images/32237.jpg")`,
+        backgroundImage: `linear-gradient(to bottom, rgba(255,255,255,0.2), rgba(255,255,255,0.1)), url("/images/32237.webp")`,
         backgroundSize: "cover",
         backgroundPosition: "center",
         backgroundRepeat: "no-repeat",
